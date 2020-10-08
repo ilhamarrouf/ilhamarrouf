@@ -7,24 +7,29 @@ I ❤️ Write Code!
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>HTML5</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><b>GO</b></span><br><br><br>
+        <img height="64px" src="https://avatars1.githubusercontent.com/u/4314092?s=200&v=4">
       </td>
       <td width="25%" align="center">
-        <span><b>CSS3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><b>Rust</b></span><br><br><br>
+        <img height="64px" src="https://avatars3.githubusercontent.com/u/5430905?s=200&v=4">
       </td>
       <td width="25%" align="center">
         <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>GreenSock</b></span><br><br><br>
-        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+        <span><b>Python</b></span><br><br><br>
+        <img height="64px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" alt="greensock" border="0">
       </td>
         <td width="25%" align="center">
-        <span><b>Materialize CSS</b></span><br><br><br>
-          <img height="64px" src="https://i.ibb.co/9Vypdkj/download.png" alt="css" border="0">
+        <span><b>Clojure</b></span><br><br><br>
+          <img height="64px" src="https://avatars0.githubusercontent.com/u/317875?s=200&v=4" alt="css" border="0">
+      </td>
+      </td>
+        <td width="25%" align="center">
+        <span><b>PHP</b></span><br><br><br>
+          <img height="64px" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4" alt="css" border="0">
       </td>
     </tr>
       </tbody>
